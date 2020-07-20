@@ -1,5 +1,5 @@
 ---
-title: Start with a Template
+title: Start with a Template great idea
 group: intro
 weight: 10
 ---
